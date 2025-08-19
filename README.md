@@ -26,6 +26,6 @@
 
 
 
-ورود به پنل مولد قرارداد هوشمند (AI Contract Generator): https://mram-dev.github.io/ocr-text-extractor/
+ورود به پنل مولد قرارداد هوشمند (AI Contract Generator): https://mram-dev.github.io/AIContractGenerator/
 
 برای اطلاعات بیشتر در کانال تلگرامی ما عضو بشید : https://t.me/amirb_wd
